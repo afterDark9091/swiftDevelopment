@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ChampionshipWorldSkills.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Red" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">237, 28, 41</Value>
+    </Setting>
+    <Setting Name="Blue" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">23, 71, 158</Value>
+    </Setting>
+    <Setting Name="Yellow" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">249, 157, 28</Value>
+    </Setting>
+    <Setting Name="Green" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">36, 159, 69</Value>
+    </Setting>
+    <Setting Name="Black" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">35, 31, 32</Value>
+    </Setting>
+    <Setting Name="White" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Gray" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">167, 169, 172</Value>
+    </Setting>
+    <Setting Name="FontMain" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 12pt</Value>
+    </Setting>
+    <Setting Name="FontCaption" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 15.75pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="FontSubcaption" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 12pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="LightGray" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">209, 211, 212</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=ПК-2-ПК\KELITESQL;Initial Catalog=ChampionshipWorldSkills;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="RememberedUserLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="RememberedUserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
